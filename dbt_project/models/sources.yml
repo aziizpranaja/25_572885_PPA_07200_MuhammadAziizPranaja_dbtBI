@@ -1,0 +1,24 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Tabel transaksi hasil extract pipeline Airflow (Opsi A)."
+    schema: raw
+    tables:
+      - name: transactions
+        description: "Snapshot extracted.csv dari tugas Airflow ETL FMCG (1.800 baris)."
+        columns:
+          - name: order_id
+            description: "Identitas pesanan."
+          - name: order_date
+            description: "Tanggal transaksi (masih kotor di lapisan raw)."
+          - name: product
+            description: "Nama produk."
+          - name: category
+            description: "Kategori produk."
+          - name: quantity
+            description: "Kuantitas item; bisa null atau negatif di raw."
+          - name: sales
+            description: "Nilai penjualan; bisa null atau negatif di raw."
+          - name: region
+            description: "Wilayah penjualan; ejaan belum seragam."

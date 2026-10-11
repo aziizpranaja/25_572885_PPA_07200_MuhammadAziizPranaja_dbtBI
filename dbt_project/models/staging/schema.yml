@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: stg_transactions
+    description: >
+      Transaksi FMCG yang sudah dibersihkan dari raw.transactions:
+      tipe data, format tanggal, normalisasi region, serta buang baris
+      tanpa tanggal/sales atau bernilai negatif.
+    columns:
+      - name: order_id
+        description: "Primary key pesanan."
+        tests:
+          - not_null
+          - unique
+      - name: order_date
+        description: "Tanggal transaksi yang valid."
+        tests:
+          - not_null
+      - name: product
+        description: "Nama produk."
+      - name: category
+        description: "Kategori produk (Groceries, Electronics, Fashion, Home)."
+      - name: quantity
+        description: "Kuantitas item; null di raw diisi 0, nilai negatif dibuang."
+      - name: sales
+        description: "Nilai penjualan non-negatif."
+        tests:
+          - not_null
+      - name: region
+        description: "Wilayah yang sudah dinormalisasi (USA menjadi United States)."

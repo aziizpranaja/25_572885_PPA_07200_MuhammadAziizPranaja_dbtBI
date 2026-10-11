@@ -1,0 +1,1242 @@
+order_date,category,region,total_sales,total_qty,n_orders
+2024-02-18,Electronics,United Kingdom,499.99,1.0,1
+2024-02-19,Home,Nigeria,3200.0,5.0,2
+2024-02-19,Home,United States,12999.99,6.0,2
+2024-02-20,Home,United States,1500.0,3.0,1
+2024-02-21,Electronics,Ghana,6000.0,5.0,1
+2024-02-21,Groceries,United States,5000.0,2.0,1
+2024-02-21,Home,Ghana,12500.0,5.0,1
+2024-02-22,Electronics,Nigeria,500.0,1.0,1
+2024-02-22,Groceries,Turkey,999.98,2.0,1
+2024-02-23,Electronics,Ghana,2499.95,5.0,1
+2024-02-23,Electronics,United States,3000.0,2.0,1
+2024-02-23,Groceries,Nigeria,4500.0,3.0,1
+2024-02-23,Groceries,Turkey,1999.96,4.0,1
+2024-02-24,Electronics,United States,2499.98,3.0,2
+2024-02-25,Groceries,United States,1500.0,3.0,2
+2024-02-26,Fashion,Nigeria,5000.0,2.0,1
+2024-02-26,Groceries,Nigeria,4600.0,5.0,2
+2024-02-26,Groceries,United States,1000.0,2.0,1
+2024-02-27,Groceries,Ghana,499.99,1.0,1
+2024-02-28,Electronics,United Kingdom,1499.97,3.0,1
+2024-02-28,Groceries,Turkey,5000.0,2.0,1
+2024-02-28,Groceries,United States,3600.0,3.0,1
+2024-02-29,Electronics,Nigeria,2500.0,5.0,1
+2024-02-29,Electronics,United States,1200.0,1.0,1
+2024-03-01,Fashion,Turkey,1000.0,2.0,1
+2024-03-01,Groceries,Turkey,1999.96,4.0,1
+2024-03-01,Groceries,United States,2500.0,5.0,1
+2024-03-01,Home,Nigeria,1500.0,1.0,1
+2024-03-01,Home,Turkey,1200.0,1.0,1
+2024-03-02,Electronics,Ghana,1500.0,3.0,1
+2024-03-02,Fashion,Ghana,2000.0,4.0,1
+2024-03-03,Electronics,Nigeria,1000.0,2.0,1
+2024-03-03,Groceries,Nigeria,500.0,1.0,1
+2024-03-04,Fashion,Nigeria,1000.0,2.0,1
+2024-03-04,Groceries,Nigeria,2500.0,5.0,1
+2024-03-05,Groceries,Nigeria,500.0,1.0,1
+2024-03-06,Groceries,Nigeria,1500.0,3.0,1
+2024-03-07,Electronics,United States,1200.0,1.0,1
+2024-03-08,Fashion,United States,3600.0,3.0,1
+2024-03-08,Groceries,United States,2500.0,1.0,1
+2024-03-09,Electronics,Nigeria,1500.0,3.0,1
+2024-03-10,Fashion,United States,2500.0,1.0,1
+2024-03-10,Groceries,United States,1500.0,1.0,1
+2024-03-11,Electronics,Ghana,11100.0,6.0,2
+2024-03-11,Electronics,Nigeria,1500.0,1.0,1
+2024-03-13,Electronics,Nigeria,8500.0,7.0,2
+2024-03-13,Groceries,United States,1500.0,1.0,1
+2024-03-14,Electronics,United States,1500.0,1.0,1
+2024-03-14,Groceries,Nigeria,1500.0,3.0,1
+2024-03-16,Groceries,Nigeria,6000.0,5.0,1
+2024-03-16,Home,Nigeria,2500.0,5.0,1
+2024-03-17,Electronics,Nigeria,999.98,2.0,1
+2024-03-17,Electronics,United States,10000.0,4.0,1
+2024-03-17,Fashion,United States,500.0,1.0,1
+2024-03-17,Groceries,United States,3600.0,3.0,1
+2024-03-18,Fashion,Ghana,1000.0,2.0,1
+2024-03-18,Fashion,United Kingdom,4800.0,4.0,1
+2024-03-19,Groceries,United States,6000.0,5.0,1
+2024-03-19,Home,Turkey,5000.0,2.0,1
+2024-03-22,Electronics,United States,1500.0,1.0,1
+2024-03-22,Groceries,United Kingdom,5000.0,2.0,1
+2024-03-24,Groceries,Ghana,500.0,1.0,1
+2024-03-25,Electronics,United States,1500.0,1.0,1
+2024-03-25,Groceries,Nigeria,2400.0,2.0,2
+2024-03-26,Electronics,Nigeria,6000.0,5.0,1
+2024-03-27,Fashion,United States,500.0,1.0,1
+2024-03-28,Groceries,Turkey,2500.0,1.0,1
+2024-03-28,Home,Turkey,500.0,1.0,1
+2024-03-29,Electronics,Turkey,6000.0,4.0,1
+2024-03-30,Groceries,United Kingdom,1000.0,2.0,1
+2024-03-31,Electronics,Ghana,2500.0,1.0,1
+2024-03-31,Fashion,Nigeria,1000.0,2.0,1
+2024-03-31,Groceries,Ghana,3000.0,2.0,1
+2024-04-01,Groceries,United States,7500.0,3.0,1
+2024-04-02,Electronics,Ghana,2499.96,5.0,2
+2024-04-02,Electronics,United States,2500.0,1.0,1
+2024-04-03,Electronics,United States,1200.0,1.0,1
+2024-04-04,Electronics,Ghana,2000.0,4.0,1
+2024-04-04,Electronics,United States,7500.0,5.0,1
+2024-04-06,Electronics,Turkey,1500.0,1.0,1
+2024-04-06,Groceries,Nigeria,1500.0,1.0,1
+2024-04-06,Home,Nigeria,6000.0,4.0,1
+2024-04-09,Fashion,Ghana,1500.0,1.0,1
+2024-04-10,Electronics,United States,2500.0,1.0,1
+2024-04-10,Fashion,Ghana,1500.0,3.0,1
+2024-04-10,Fashion,Nigeria,5400.0,4.0,2
+2024-04-11,Fashion,Nigeria,2500.0,1.0,1
+2024-04-13,Electronics,Ghana,4500.0,3.0,1
+2024-04-13,Electronics,Nigeria,1500.0,3.0,1
+2024-04-13,Electronics,United Kingdom,2400.0,2.0,1
+2024-04-13,Electronics,United States,1000.0,2.0,1
+2024-04-14,Electronics,Nigeria,2500.0,5.0,1
+2024-04-14,Electronics,United States,1499.97,3.0,1
+2024-04-15,Electronics,Nigeria,2500.0,1.0,1
+2024-04-15,Electronics,Turkey,1200.0,1.0,1
+2024-04-16,Electronics,Nigeria,2400.0,2.0,1
+2024-04-16,Fashion,United States,4500.0,3.0,1
+2024-04-16,Groceries,Nigeria,3499.97,7.0,3
+2024-04-16,Home,United Kingdom,499.99,1.0,1
+2024-04-17,Fashion,Nigeria,3600.0,3.0,1
+2024-04-18,Electronics,Turkey,1999.96,4.0,1
+2024-04-18,Home,United States,3499.95,7.0,2
+2024-04-19,Electronics,Nigeria,10000.0,4.0,1
+2024-04-19,Electronics,United Kingdom,2500.0,5.0,1
+2024-04-19,Groceries,Ghana,1000.0,2.0,1
+2024-04-21,Electronics,United States,7500.0,3.0,1
+2024-04-21,Home,Ghana,1000.0,2.0,1
+2024-04-22,Electronics,Ghana,5000.0,2.0,1
+2024-04-22,Home,Nigeria,2500.0,1.0,1
+2024-04-23,Electronics,Nigeria,7500.0,5.0,1
+2024-04-23,Fashion,United States,1000.0,2.0,1
+2024-04-24,Electronics,Nigeria,4500.0,3.0,1
+2024-04-26,Electronics,Ghana,1000.0,2.0,1
+2024-04-26,Electronics,United States,1200.0,1.0,1
+2024-04-26,Groceries,Turkey,6000.0,5.0,1
+2024-04-27,Electronics,Nigeria,1499.97,3.0,1
+2024-04-27,Fashion,United Kingdom,999.98,2.0,1
+2024-04-27,Groceries,Nigeria,999.98,2.0,1
+2024-04-27,Home,Turkey,1200.0,1.0,1
+2024-04-28,Home,United States,1200.0,1.0,1
+2024-04-29,Groceries,United States,3000.0,2.0,1
+2024-04-29,Home,Turkey,6000.0,4.0,1
+2024-04-30,Electronics,Turkey,3000.0,2.0,1
+2024-04-30,Fashion,Nigeria,3000.0,2.0,1
+2024-04-30,Groceries,United States,999.98,2.0,1
+2024-05-01,Electronics,Nigeria,10000.0,4.0,1
+2024-05-02,Electronics,United States,2400.0,2.0,1
+2024-05-03,Electronics,United States,3000.0,2.0,1
+2024-05-04,Electronics,United States,500.0,1.0,1
+2024-05-05,Electronics,Nigeria,1200.0,1.0,1
+2024-05-05,Groceries,United States,3600.0,3.0,1
+2024-05-06,Groceries,Nigeria,499.99,1.0,1
+2024-05-07,Electronics,Nigeria,4800.0,4.0,1
+2024-05-07,Electronics,United States,5000.0,2.0,1
+2024-05-07,Home,Nigeria,1500.0,1.0,1
+2024-05-08,Electronics,Turkey,1200.0,1.0,1
+2024-05-09,Electronics,Nigeria,999.98,2.0,1
+2024-05-09,Electronics,United States,6000.0,4.0,1
+2024-05-09,Groceries,Ghana,500.0,1.0,1
+2024-05-09,Groceries,Nigeria,3000.0,2.0,1
+2024-05-09,Groceries,United States,1000.0,2.0,1
+2024-05-10,Groceries,United States,1000.0,2.0,1
+2024-05-12,Electronics,United States,4500.0,3.0,1
+2024-05-12,Fashion,Nigeria,1200.0,1.0,1
+2024-05-12,Groceries,Nigeria,500.0,1.0,1
+2024-05-12,Home,Nigeria,1200.0,1.0,1
+2024-05-13,Fashion,Nigeria,1200.0,1.0,1
+2024-05-13,Groceries,United States,1000.0,2.0,1
+2024-05-14,Groceries,United States,2000.0,4.0,1
+2024-05-16,Groceries,Nigeria,3500.0,3.0,2
+2024-05-16,Groceries,United States,2400.0,2.0,1
+2024-05-17,Fashion,United Kingdom,6000.0,5.0,1
+2024-05-17,Groceries,Nigeria,8500.0,7.0,2
+2024-05-18,Fashion,Ghana,1200.0,1.0,1
+2024-05-18,Home,Nigeria,1500.0,1.0,1
+2024-05-19,Electronics,Ghana,1000.0,2.0,1
+2024-05-21,Groceries,Ghana,499.99,1.0,1
+2024-05-22,Electronics,Nigeria,2400.0,2.0,1
+2024-05-22,Fashion,Ghana,1000.0,2.0,1
+2024-05-23,Fashion,Nigeria,3600.0,3.0,1
+2024-05-25,Groceries,Ghana,499.99,1.0,1
+2024-05-25,Groceries,Nigeria,4800.0,4.0,1
+2024-05-26,Groceries,United States,1200.0,1.0,1
+2024-05-27,Fashion,Nigeria,1200.0,1.0,1
+2024-05-27,Home,United States,3600.0,3.0,1
+2024-05-28,Groceries,Nigeria,2500.0,1.0,1
+2024-05-30,Groceries,United Kingdom,2500.0,1.0,1
+2024-05-30,Home,Nigeria,3000.0,2.0,1
+2024-06-01,Electronics,United Kingdom,2500.0,5.0,1
+2024-06-01,Fashion,United Kingdom,2000.0,4.0,1
+2024-06-01,Groceries,Nigeria,2500.0,1.0,1
+2024-06-02,Fashion,United States,7500.0,5.0,1
+2024-06-03,Fashion,Turkey,2400.0,2.0,1
+2024-06-04,Fashion,Nigeria,3000.0,2.0,1
+2024-06-04,Groceries,United States,1500.0,3.0,1
+2024-06-05,Fashion,United Kingdom,4800.0,4.0,1
+2024-06-05,Groceries,Nigeria,2200.0,3.0,2
+2024-06-06,Electronics,United States,1500.0,1.0,1
+2024-06-06,Fashion,United States,1200.0,1.0,1
+2024-06-07,Fashion,Nigeria,500.0,1.0,1
+2024-06-08,Electronics,Nigeria,10000.0,4.0,1
+2024-06-08,Home,United States,6300.0,5.0,2
+2024-06-09,Electronics,Nigeria,500.0,1.0,1
+2024-06-10,Groceries,Nigeria,2500.0,1.0,1
+2024-06-10,Home,United States,3000.0,2.0,1
+2024-06-11,Fashion,Nigeria,1999.96,4.0,1
+2024-06-11,Groceries,Nigeria,1200.0,1.0,1
+2024-06-12,Electronics,Nigeria,4500.0,3.0,1
+2024-06-12,Home,Ghana,7500.0,3.0,1
+2024-06-13,Groceries,Turkey,500.0,1.0,1
+2024-06-15,Groceries,Ghana,2500.0,1.0,1
+2024-06-15,Home,Turkey,1999.96,4.0,1
+2024-06-16,Electronics,Nigeria,2500.0,5.0,1
+2024-06-16,Electronics,Turkey,2500.0,5.0,1
+2024-06-16,Groceries,United States,1499.97,3.0,1
+2024-06-16,Home,Ghana,500.0,1.0,1
+2024-06-17,Electronics,Nigeria,2400.0,2.0,1
+2024-06-18,Electronics,Nigeria,3500.0,3.0,2
+2024-06-19,Electronics,Nigeria,1000.0,2.0,1
+2024-06-19,Groceries,United States,4500.0,3.0,1
+2024-06-20,Electronics,Nigeria,1500.0,1.0,1
+2024-06-20,Fashion,United States,7500.0,3.0,1
+2024-06-20,Groceries,Turkey,2500.0,5.0,1
+2024-06-23,Electronics,Turkey,2500.0,1.0,1
+2024-06-23,Electronics,United States,1500.0,1.0,1
+2024-06-23,Fashion,Nigeria,5000.0,2.0,1
+2024-06-24,Electronics,United States,4900.0,3.0,2
+2024-06-25,Electronics,Nigeria,1500.0,3.0,1
+2024-06-27,Electronics,Turkey,499.99,1.0,1
+2024-06-27,Electronics,United States,12500.0,5.0,1
+2024-06-28,Electronics,Nigeria,500.0,1.0,1
+2024-06-28,Fashion,Nigeria,4800.0,4.0,1
+2024-06-28,Fashion,Turkey,500.0,1.0,1
+2024-06-28,Groceries,Nigeria,1000.0,2.0,1
+2024-06-28,Groceries,United States,1500.0,1.0,1
+2024-06-28,Home,Nigeria,499.99,1.0,1
+2024-06-29,Home,United States,2400.0,2.0,1
+2024-06-30,Groceries,United Kingdom,1000.0,2.0,1
+2024-07-01,Electronics,United States,1000.0,2.0,1
+2024-07-03,Electronics,United Kingdom,1499.97,3.0,1
+2024-07-03,Fashion,Nigeria,3600.0,3.0,1
+2024-07-03,Groceries,Nigeria,1500.0,3.0,1
+2024-07-04,Groceries,United States,2499.95,5.0,1
+2024-07-04,Home,Nigeria,4800.0,4.0,1
+2024-07-05,Electronics,United Kingdom,3600.0,3.0,1
+2024-07-05,Fashion,United States,7500.0,5.0,1
+2024-07-05,Home,Nigeria,2400.0,2.0,1
+2024-07-06,Electronics,Ghana,3000.0,2.0,2
+2024-07-06,Electronics,United States,5000.0,2.0,1
+2024-07-07,Electronics,United States,2500.0,5.0,1
+2024-07-08,Groceries,Ghana,499.99,1.0,1
+2024-07-09,Groceries,United States,1200.0,1.0,1
+2024-07-09,Home,United States,2000.0,4.0,1
+2024-07-10,Electronics,Nigeria,2500.0,1.0,1
+2024-07-10,Electronics,United States,5000.0,2.0,2
+2024-07-10,Groceries,Turkey,1499.97,3.0,1
+2024-07-10,Home,Turkey,2400.0,2.0,1
+2024-07-11,Electronics,United States,1200.0,1.0,1
+2024-07-12,Groceries,United States,1000.0,2.0,1
+2024-07-12,Home,Nigeria,500.0,1.0,1
+2024-07-13,Electronics,Nigeria,1000.0,2.0,1
+2024-07-14,Electronics,Turkey,1200.0,1.0,1
+2024-07-14,Electronics,United Kingdom,2500.0,5.0,1
+2024-07-14,Fashion,Nigeria,7500.0,5.0,1
+2024-07-15,Electronics,Turkey,500.0,1.0,1
+2024-07-15,Groceries,Nigeria,499.99,1.0,1
+2024-07-16,Electronics,Nigeria,6000.0,4.0,1
+2024-07-16,Electronics,United States,7500.0,3.0,1
+2024-07-16,Fashion,Nigeria,500.0,1.0,1
+2024-07-16,Home,Ghana,1500.0,3.0,1
+2024-07-16,Home,United Kingdom,4500.0,3.0,1
+2024-07-16,Home,United States,2499.95,5.0,1
+2024-07-17,Electronics,Nigeria,499.99,1.0,1
+2024-07-17,Electronics,Turkey,1499.97,3.0,1
+2024-07-17,Fashion,Nigeria,1000.0,2.0,1
+2024-07-17,Groceries,Nigeria,2499.95,5.0,1
+2024-07-17,Home,Nigeria,999.98,2.0,1
+2024-07-18,Home,Ghana,6000.0,5.0,1
+2024-07-19,Electronics,Nigeria,6500.0,3.0,2
+2024-07-19,Home,United States,1000.0,2.0,1
+2024-07-20,Electronics,Nigeria,1999.96,4.0,1
+2024-07-20,Fashion,Turkey,499.99,1.0,1
+2024-07-20,Groceries,Nigeria,3000.0,2.0,1
+2024-07-21,Groceries,United States,3000.0,6.0,2
+2024-07-22,Electronics,United Kingdom,10000.0,4.0,1
+2024-07-22,Groceries,United States,18500.0,10.0,2
+2024-07-23,Electronics,Nigeria,7500.0,5.0,1
+2024-07-23,Home,Nigeria,1500.0,3.0,1
+2024-07-23,Home,United Kingdom,3000.0,2.0,1
+2024-07-24,Electronics,United Kingdom,1499.97,3.0,1
+2024-07-24,Fashion,United States,1500.0,1.0,1
+2024-07-26,Electronics,Ghana,3000.0,2.0,1
+2024-07-26,Electronics,Nigeria,3600.0,3.0,1
+2024-07-26,Groceries,Turkey,500.0,1.0,1
+2024-07-28,Fashion,United States,1999.97,4.0,3
+2024-07-29,Electronics,Nigeria,1000.0,2.0,1
+2024-07-29,Home,Nigeria,2499.95,5.0,1
+2024-07-30,Electronics,Ghana,4500.0,3.0,1
+2024-07-30,Fashion,Nigeria,12500.0,5.0,1
+2024-07-30,Fashion,Turkey,2500.0,5.0,1
+2024-07-30,Home,Ghana,1499.97,3.0,1
+2024-07-31,Fashion,Nigeria,999.98,2.0,1
+2024-07-31,Fashion,Turkey,1000.0,2.0,1
+2024-07-31,Groceries,United Kingdom,999.98,2.0,1
+2024-08-01,Home,Nigeria,3000.0,2.0,1
+2024-08-03,Fashion,Turkey,499.99,1.0,1
+2024-08-04,Groceries,United Kingdom,2499.95,5.0,1
+2024-08-06,Electronics,Nigeria,4500.0,3.0,1
+2024-08-07,Electronics,Nigeria,2199.98,3.0,2
+2024-08-08,Electronics,Nigeria,1000.0,2.0,1
+2024-08-08,Electronics,Turkey,500.0,1.0,1
+2024-08-08,Fashion,Nigeria,6000.0,5.0,1
+2024-08-09,Electronics,Nigeria,10000.0,4.0,1
+2024-08-09,Groceries,United States,500.0,1.0,1
+2024-08-10,Electronics,Nigeria,1500.0,1.0,1
+2024-08-10,Electronics,United States,4500.0,3.0,1
+2024-08-12,Electronics,Nigeria,1999.96,4.0,1
+2024-08-12,Groceries,Nigeria,1499.97,3.0,1
+2024-08-13,Groceries,Turkey,5000.0,2.0,1
+2024-08-13,Groceries,United Kingdom,1000.0,2.0,1
+2024-08-13,Groceries,United States,500.0,1.0,1
+2024-08-13,Home,Nigeria,2000.0,4.0,1
+2024-08-14,Electronics,Nigeria,1200.0,1.0,1
+2024-08-14,Electronics,United Kingdom,2499.95,5.0,1
+2024-08-15,Fashion,Nigeria,2499.95,5.0,1
+2024-08-15,Fashion,United Kingdom,10000.0,4.0,1
+2024-08-16,Groceries,Turkey,3000.0,2.0,1
+2024-08-16,Groceries,United States,1000.0,2.0,1
+2024-08-17,Fashion,Nigeria,500.0,1.0,1
+2024-08-17,Fashion,United Kingdom,1499.97,3.0,1
+2024-08-17,Groceries,Nigeria,2400.0,2.0,1
+2024-08-17,Groceries,United States,7000.0,6.0,2
+2024-08-18,Electronics,Nigeria,5100.0,4.0,2
+2024-08-19,Fashion,United States,4500.0,3.0,1
+2024-08-19,Groceries,Nigeria,1200.0,1.0,1
+2024-08-20,Electronics,United States,4000.0,8.0,2
+2024-08-20,Fashion,Turkey,2400.0,2.0,1
+2024-08-22,Electronics,Nigeria,5100.0,4.0,2
+2024-08-22,Electronics,United Kingdom,2500.0,5.0,1
+2024-08-23,Electronics,Nigeria,499.99,1.0,1
+2024-08-23,Electronics,Turkey,2500.0,5.0,1
+2024-08-23,Groceries,Nigeria,7500.0,3.0,1
+2024-08-24,Electronics,Turkey,1200.0,1.0,1
+2024-08-24,Groceries,United Kingdom,2400.0,2.0,1
+2024-08-24,Home,Ghana,2499.95,5.0,1
+2024-08-24,Home,Turkey,10000.0,4.0,1
+2024-08-24,Home,United Kingdom,5000.0,2.0,1
+2024-08-25,Electronics,Ghana,1499.97,3.0,1
+2024-08-25,Electronics,United Kingdom,2499.95,5.0,1
+2024-08-25,Fashion,Ghana,1500.0,3.0,1
+2024-08-25,Fashion,United Kingdom,3600.0,3.0,1
+2024-08-25,Groceries,United States,1499.97,3.0,1
+2024-08-26,Electronics,Nigeria,1500.0,3.0,1
+2024-08-26,Electronics,United States,6499.99,5.0,2
+2024-08-27,Groceries,Ghana,500.0,1.0,1
+2024-08-27,Groceries,Nigeria,3600.0,3.0,1
+2024-08-29,Electronics,Turkey,1200.0,1.0,1
+2024-08-30,Electronics,United States,500.0,1.0,1
+2024-08-30,Groceries,Nigeria,1499.97,3.0,1
+2024-09-01,Electronics,Nigeria,4800.0,4.0,1
+2024-09-02,Electronics,Nigeria,3000.0,2.0,1
+2024-09-02,Electronics,United States,2400.0,2.0,1
+2024-09-02,Home,Nigeria,4500.0,3.0,1
+2024-09-03,Electronics,Ghana,6000.0,4.0,1
+2024-09-03,Electronics,United States,2400.0,2.0,1
+2024-09-04,Electronics,Turkey,2400.0,2.0,1
+2024-09-04,Electronics,United States,2500.0,5.0,1
+2024-09-06,Fashion,United Kingdom,7500.0,3.0,1
+2024-09-07,Electronics,Nigeria,1999.96,4.0,1
+2024-09-07,Electronics,Turkey,7500.0,3.0,1
+2024-09-07,Fashion,United States,3000.0,2.0,1
+2024-09-07,Groceries,Turkey,2500.0,5.0,1
+2024-09-08,Electronics,United Kingdom,2400.0,2.0,1
+2024-09-08,Fashion,United Kingdom,6000.0,4.0,1
+2024-09-08,Fashion,United States,1200.0,1.0,1
+2024-09-08,Home,Nigeria,2400.0,2.0,1
+2024-09-08,Home,United States,2500.0,5.0,1
+2024-09-09,Electronics,Nigeria,2499.96,5.0,2
+2024-09-09,Fashion,Turkey,1500.0,1.0,1
+2024-09-09,Groceries,Nigeria,4500.0,3.0,1
+2024-09-10,Electronics,United States,500.0,1.0,1
+2024-09-10,Fashion,United States,500.0,1.0,1
+2024-09-10,Groceries,Nigeria,8000.0,4.0,2
+2024-09-10,Home,Nigeria,10000.0,4.0,1
+2024-09-11,Electronics,Ghana,2400.0,2.0,1
+2024-09-11,Electronics,Turkey,500.0,1.0,1
+2024-09-12,Fashion,United States,2500.0,1.0,1
+2024-09-13,Electronics,Nigeria,1000.0,2.0,1
+2024-09-14,Groceries,Nigeria,500.0,1.0,1
+2024-09-16,Electronics,United Kingdom,6000.0,5.0,1
+2024-09-16,Electronics,United States,7500.0,3.0,1
+2024-09-16,Fashion,Ghana,2500.0,1.0,1
+2024-09-16,Fashion,Turkey,7500.0,5.0,1
+2024-09-17,Electronics,Ghana,499.99,1.0,1
+2024-09-17,Home,Nigeria,2400.0,2.0,1
+2024-09-18,Fashion,Nigeria,6000.0,4.0,1
+2024-09-18,Groceries,Nigeria,3600.0,3.0,1
+2024-09-19,Electronics,Turkey,500.0,1.0,1
+2024-09-19,Groceries,Nigeria,2500.0,1.0,1
+2024-09-20,Electronics,Turkey,3600.0,3.0,1
+2024-09-20,Fashion,Ghana,1499.97,3.0,1
+2024-09-20,Groceries,United States,3600.0,3.0,1
+2024-09-22,Electronics,Nigeria,1500.0,3.0,1
+2024-09-22,Electronics,United Kingdom,2400.0,2.0,1
+2024-09-22,Fashion,Ghana,5000.0,2.0,1
+2024-09-23,Electronics,Nigeria,2400.0,2.0,1
+2024-09-24,Groceries,Nigeria,2500.0,1.0,1
+2024-09-24,Home,United Kingdom,1200.0,1.0,1
+2024-09-27,Electronics,Ghana,7500.0,5.0,1
+2024-09-27,Electronics,United States,1500.0,1.0,1
+2024-09-28,Electronics,Ghana,500.0,1.0,1
+2024-09-28,Electronics,Nigeria,10800.0,9.0,2
+2024-09-28,Electronics,United Kingdom,500.0,1.0,1
+2024-09-28,Fashion,United States,1000.0,2.0,1
+2024-09-29,Electronics,United Kingdom,1200.0,1.0,1
+2024-09-30,Fashion,Nigeria,2400.0,2.0,1
+2024-09-30,Groceries,United States,500.0,1.0,1
+2024-10-01,Electronics,Nigeria,6000.0,4.0,1
+2024-10-02,Groceries,Ghana,2500.0,1.0,1
+2024-10-02,Groceries,United States,999.98,2.0,1
+2024-10-02,Home,United States,5000.0,2.0,1
+2024-10-03,Electronics,United States,2400.0,2.0,1
+2024-10-04,Groceries,Nigeria,5000.0,2.0,1
+2024-10-05,Groceries,United Kingdom,4500.0,3.0,1
+2024-10-06,Electronics,Ghana,1000.0,2.0,1
+2024-10-06,Groceries,United States,3600.0,3.0,1
+2024-10-07,Fashion,Ghana,1500.0,1.0,1
+2024-10-07,Home,Nigeria,3000.0,2.0,1
+2024-10-08,Groceries,Nigeria,2500.0,5.0,1
+2024-10-08,Home,Nigeria,3000.0,2.0,1
+2024-10-09,Electronics,United Kingdom,999.98,2.0,1
+2024-10-09,Electronics,United States,3600.0,3.0,1
+2024-10-11,Electronics,Nigeria,499.99,1.0,1
+2024-10-11,Electronics,United States,5000.0,2.0,1
+2024-10-11,Fashion,Nigeria,1000.0,2.0,1
+2024-10-11,Fashion,Turkey,12500.0,5.0,1
+2024-10-12,Electronics,Ghana,1999.96,4.0,1
+2024-10-12,Electronics,Nigeria,3000.0,2.0,1
+2024-10-14,Electronics,United States,4500.0,3.0,1
+2024-10-15,Electronics,Nigeria,500.0,1.0,1
+2024-10-15,Groceries,Turkey,3000.0,2.0,1
+2024-10-15,Groceries,United Kingdom,1499.97,3.0,1
+2024-10-15,Home,United States,2500.0,5.0,1
+2024-10-16,Groceries,Nigeria,2500.0,1.0,1
+2024-10-17,Electronics,United States,6000.0,5.0,2
+2024-10-19,Electronics,Ghana,3700.0,2.0,2
+2024-10-20,Groceries,Ghana,1200.0,1.0,1
+2024-10-21,Fashion,United Kingdom,1500.0,3.0,1
+2024-10-22,Electronics,Ghana,500.0,1.0,1
+2024-10-22,Fashion,United Kingdom,6000.0,4.0,1
+2024-10-24,Electronics,United Kingdom,2400.0,2.0,1
+2024-10-24,Fashion,Nigeria,10000.0,4.0,1
+2024-10-25,Fashion,United States,500.0,1.0,1
+2024-10-25,Groceries,Ghana,1000.0,2.0,1
+2024-10-25,Home,United States,7500.0,3.0,1
+2024-10-26,Fashion,United States,1500.0,3.0,1
+2024-10-26,Groceries,Ghana,7500.0,3.0,1
+2024-10-26,Home,Ghana,1200.0,1.0,1
+2024-10-26,Home,United Kingdom,3000.0,2.0,1
+2024-10-26,Home,United States,2499.95,5.0,1
+2024-10-27,Electronics,Nigeria,9900.0,7.0,2
+2024-10-27,Fashion,Nigeria,500.0,1.0,1
+2024-10-27,Fashion,United Kingdom,6000.0,5.0,1
+2024-10-27,Groceries,Nigeria,2400.0,2.0,1
+2024-10-27,Groceries,Turkey,1200.0,1.0,1
+2024-10-28,Home,Nigeria,1200.0,1.0,1
+2024-10-30,Groceries,United States,6500.0,5.0,2
+2024-10-31,Electronics,Nigeria,1200.0,1.0,1
+2024-11-01,Electronics,United States,1500.0,3.0,1
+2024-11-01,Fashion,Nigeria,500.0,1.0,1
+2024-11-01,Groceries,Nigeria,500.0,1.0,1
+2024-11-01,Home,Turkey,500.0,1.0,1
+2024-11-02,Electronics,Nigeria,1000.0,2.0,1
+2024-11-02,Groceries,Nigeria,1999.96,4.0,1
+2024-11-02,Groceries,United States,500.0,1.0,1
+2024-11-02,Home,Ghana,2500.0,1.0,1
+2024-11-03,Electronics,United States,2400.0,2.0,1
+2024-11-04,Electronics,United Kingdom,2499.95,5.0,1
+2024-11-05,Groceries,Nigeria,4800.0,4.0,1
+2024-11-06,Electronics,Nigeria,3000.0,2.0,1
+2024-11-06,Fashion,United States,4800.0,4.0,1
+2024-11-07,Electronics,Turkey,2500.0,5.0,1
+2024-11-07,Fashion,United States,2500.0,5.0,1
+2024-11-07,Groceries,United States,1500.0,3.0,1
+2024-11-08,Electronics,Nigeria,1000.0,2.0,1
+2024-11-10,Electronics,Ghana,5000.0,2.0,1
+2024-11-10,Fashion,United Kingdom,499.99,1.0,1
+2024-11-12,Fashion,Nigeria,1499.97,3.0,1
+2024-11-12,Fashion,United Kingdom,5000.0,2.0,1
+2024-11-13,Fashion,United States,1499.97,3.0,2
+2024-11-13,Home,Turkey,6000.0,5.0,1
+2024-11-14,Electronics,United States,500.0,1.0,1
+2024-11-14,Home,Turkey,1000.0,2.0,1
+2024-11-15,Electronics,Turkey,2500.0,1.0,1
+2024-11-15,Electronics,United States,2500.0,1.0,1
+2024-11-15,Groceries,United Kingdom,1000.0,2.0,1
+2024-11-16,Fashion,Nigeria,1200.0,1.0,1
+2024-11-17,Fashion,Nigeria,3600.0,3.0,1
+2024-11-17,Home,United States,1499.97,3.0,1
+2024-11-18,Electronics,Nigeria,500.0,1.0,1
+2024-11-18,Groceries,United States,499.99,1.0,1
+2024-11-19,Fashion,Nigeria,1500.0,3.0,1
+2024-11-19,Home,Nigeria,499.99,1.0,1
+2024-11-20,Electronics,Nigeria,1000.0,2.0,1
+2024-11-20,Electronics,Turkey,2400.0,2.0,1
+2024-11-20,Groceries,Nigeria,1499.97,3.0,1
+2024-11-21,Electronics,United States,4500.0,3.0,1
+2024-11-23,Electronics,United States,1999.99,2.0,2
+2024-11-24,Electronics,United States,3600.0,3.0,1
+2024-11-24,Fashion,United States,1000.0,2.0,1
+2024-11-25,Electronics,Nigeria,500.0,1.0,1
+2024-11-25,Electronics,Turkey,1999.96,4.0,1
+2024-11-25,Fashion,Nigeria,1500.0,1.0,1
+2024-11-26,Electronics,United States,2899.99,3.0,2
+2024-11-26,Fashion,Nigeria,499.99,1.0,1
+2024-11-27,Fashion,United Kingdom,3600.0,3.0,1
+2024-11-27,Groceries,Ghana,6000.0,5.0,1
+2024-11-29,Electronics,Nigeria,2400.0,2.0,1
+2024-11-30,Electronics,United States,1000.0,2.0,1
+2024-12-01,Electronics,United Kingdom,1200.0,1.0,1
+2024-12-01,Fashion,Nigeria,1500.0,1.0,1
+2024-12-04,Electronics,Nigeria,999.98,2.0,1
+2024-12-04,Groceries,Ghana,1500.0,1.0,1
+2024-12-05,Electronics,Ghana,3000.0,2.0,1
+2024-12-05,Electronics,United States,4800.0,4.0,1
+2024-12-06,Electronics,United States,2999.98,6.0,2
+2024-12-07,Electronics,Turkey,499.99,1.0,1
+2024-12-07,Fashion,United Kingdom,1500.0,3.0,1
+2024-12-07,Groceries,Nigeria,2500.0,1.0,1
+2024-12-07,Home,Turkey,4800.0,4.0,1
+2024-12-08,Fashion,United Kingdom,1000.0,2.0,1
+2024-12-09,Electronics,United States,1500.0,3.0,1
+2024-12-09,Groceries,Ghana,4500.0,3.0,1
+2024-12-09,Home,United Kingdom,499.99,1.0,1
+2024-12-10,Electronics,Ghana,3600.0,3.0,1
+2024-12-10,Electronics,Nigeria,4800.0,4.0,1
+2024-12-11,Electronics,Nigeria,2000.0,4.0,1
+2024-12-13,Electronics,Ghana,2499.95,5.0,1
+2024-12-13,Fashion,United States,3500.0,3.0,2
+2024-12-13,Groceries,Ghana,1500.0,1.0,1
+2024-12-14,Home,Nigeria,500.0,1.0,1
+2024-12-15,Electronics,United States,6000.0,5.0,1
+2024-12-15,Fashion,Nigeria,2000.0,4.0,1
+2024-12-16,Fashion,Ghana,2500.0,5.0,1
+2024-12-16,Fashion,Nigeria,2000.0,4.0,1
+2024-12-16,Home,Nigeria,3000.0,2.0,1
+2024-12-17,Fashion,Ghana,1000.0,2.0,1
+2024-12-18,Fashion,Ghana,3400.0,4.0,2
+2024-12-19,Electronics,Turkey,499.99,1.0,1
+2024-12-19,Electronics,United Kingdom,6000.0,4.0,1
+2024-12-20,Electronics,Ghana,1000.0,2.0,1
+2024-12-20,Fashion,Nigeria,499.99,1.0,1
+2024-12-20,Groceries,Nigeria,1000.0,2.0,1
+2024-12-22,Electronics,Ghana,2500.0,5.0,1
+2024-12-22,Fashion,Nigeria,7500.0,3.0,1
+2024-12-23,Home,Ghana,2400.0,2.0,1
+2024-12-24,Groceries,Nigeria,500.0,1.0,1
+2024-12-24,Home,United Kingdom,6000.0,4.0,1
+2024-12-25,Groceries,Nigeria,2400.0,2.0,1
+2024-12-25,Home,United Kingdom,2500.0,1.0,1
+2024-12-27,Electronics,United States,500.0,1.0,1
+2024-12-28,Fashion,United States,500.0,1.0,1
+2024-12-29,Fashion,Ghana,1200.0,1.0,1
+2024-12-31,Fashion,United Kingdom,3000.0,2.0,1
+2024-12-31,Groceries,Turkey,6000.0,4.0,1
+2025-01-02,Groceries,United States,2000.0,4.0,1
+2025-01-02,Home,Ghana,2400.0,2.0,1
+2025-01-02,Home,United States,1500.0,3.0,1
+2025-01-03,Electronics,Nigeria,6499.95,11.0,3
+2025-01-03,Electronics,United States,6000.0,4.0,1
+2025-01-04,Electronics,United States,2000.0,4.0,1
+2025-01-05,Electronics,Ghana,1200.0,1.0,1
+2025-01-05,Fashion,United States,2500.0,5.0,2
+2025-01-05,Groceries,Ghana,1200.0,1.0,1
+2025-01-05,Home,Nigeria,2400.0,2.0,1
+2025-01-06,Electronics,Nigeria,499.99,1.0,1
+2025-01-07,Electronics,Nigeria,500.0,1.0,1
+2025-01-08,Electronics,Nigeria,2400.0,2.0,1
+2025-01-08,Groceries,Ghana,5000.0,2.0,1
+2025-01-08,Groceries,Nigeria,2500.0,1.0,1
+2025-01-09,Electronics,United States,2000.0,4.0,1
+2025-01-09,Fashion,Nigeria,1200.0,1.0,1
+2025-01-09,Home,United Kingdom,2499.95,5.0,1
+2025-01-10,Electronics,United Kingdom,1200.0,1.0,1
+2025-01-10,Fashion,Nigeria,4500.0,3.0,1
+2025-01-10,Groceries,Nigeria,2400.0,2.0,2
+2025-01-11,Fashion,United Kingdom,3000.0,2.0,1
+2025-01-11,Home,United Kingdom,2400.0,2.0,1
+2025-01-12,Electronics,Nigeria,3600.0,3.0,1
+2025-01-12,Groceries,United Kingdom,999.98,2.0,1
+2025-01-13,Electronics,United States,2400.0,2.0,1
+2025-01-13,Groceries,Ghana,2400.0,2.0,1
+2025-01-14,Electronics,United Kingdom,2000.0,4.0,1
+2025-01-14,Groceries,United States,500.0,1.0,1
+2025-01-15,Fashion,Nigeria,2400.0,2.0,1
+2025-01-16,Groceries,United States,499.99,1.0,1
+2025-01-18,Electronics,Nigeria,1200.0,1.0,1
+2025-01-18,Groceries,Nigeria,2400.0,2.0,1
+2025-01-20,Electronics,Nigeria,2500.0,1.0,1
+2025-01-20,Electronics,United States,7500.0,5.0,1
+2025-01-21,Fashion,Nigeria,3600.0,3.0,1
+2025-01-21,Groceries,United States,1500.0,3.0,1
+2025-01-22,Electronics,Ghana,12500.0,5.0,1
+2025-01-23,Fashion,Turkey,7500.0,5.0,1
+2025-01-23,Groceries,Turkey,3000.0,2.0,1
+2025-01-23,Home,Nigeria,6000.0,5.0,1
+2025-01-25,Electronics,Ghana,3600.0,3.0,1
+2025-01-25,Electronics,United States,1200.0,1.0,1
+2025-01-25,Fashion,United States,5000.0,2.0,1
+2025-01-25,Home,Nigeria,499.99,1.0,1
+2025-01-26,Electronics,United States,7500.0,5.0,1
+2025-01-27,Fashion,United States,1500.0,1.0,1
+2025-01-28,Electronics,United States,1500.0,3.0,1
+2025-01-28,Fashion,United Kingdom,3000.0,2.0,1
+2025-01-28,Groceries,United States,2500.0,5.0,1
+2025-01-29,Electronics,United States,1500.0,3.0,1
+2025-01-29,Home,Nigeria,3000.0,2.0,1
+2025-01-30,Home,Nigeria,2500.0,1.0,1
+2025-01-30,Home,Turkey,2500.0,5.0,1
+2025-01-31,Fashion,United Kingdom,12500.0,5.0,1
+2025-01-31,Fashion,United States,1999.96,4.0,1
+2025-02-01,Electronics,Nigeria,1200.0,1.0,1
+2025-02-01,Electronics,Turkey,1500.0,3.0,1
+2025-02-02,Fashion,United States,4500.0,3.0,1
+2025-02-03,Fashion,Nigeria,3600.0,3.0,1
+2025-02-03,Fashion,United States,2400.0,2.0,1
+2025-02-03,Home,Nigeria,3600.0,3.0,1
+2025-02-03,Home,United States,2000.0,4.0,1
+2025-02-04,Fashion,Nigeria,6000.0,5.0,1
+2025-02-05,Fashion,Nigeria,2499.95,5.0,1
+2025-02-05,Groceries,Nigeria,499.99,1.0,1
+2025-02-05,Home,United Kingdom,10000.0,4.0,1
+2025-02-06,Home,Ghana,1200.0,1.0,1
+2025-02-07,Electronics,Nigeria,999.98,2.0,1
+2025-02-07,Fashion,United States,10000.0,4.0,1
+2025-02-08,Electronics,Turkey,4800.0,4.0,1
+2025-02-08,Fashion,Ghana,10000.0,4.0,1
+2025-02-08,Groceries,Nigeria,2400.0,2.0,1
+2025-02-09,Groceries,Nigeria,2000.0,4.0,1
+2025-02-10,Electronics,United Kingdom,3600.0,3.0,1
+2025-02-11,Electronics,Ghana,1500.0,1.0,1
+2025-02-11,Electronics,Nigeria,1200.0,1.0,1
+2025-02-11,Groceries,Nigeria,3000.0,2.0,1
+2025-02-11,Home,Ghana,7500.0,5.0,1
+2025-02-12,Groceries,Nigeria,6000.0,5.0,1
+2025-02-13,Fashion,United Kingdom,2499.95,5.0,1
+2025-02-13,Groceries,Turkey,10000.0,4.0,1
+2025-02-13,Groceries,United States,1000.0,2.0,1
+2025-02-14,Electronics,Ghana,6000.0,4.0,1
+2025-02-14,Electronics,Nigeria,4800.0,4.0,1
+2025-02-14,Electronics,United States,1200.0,1.0,1
+2025-02-14,Groceries,United States,6000.0,5.0,1
+2025-02-15,Electronics,United States,13200.0,10.0,3
+2025-02-15,Groceries,Nigeria,499.99,1.0,1
+2025-02-15,Home,Turkey,1999.96,4.0,1
+2025-02-16,Electronics,Nigeria,1999.96,4.0,2
+2025-02-16,Groceries,United Kingdom,1500.0,3.0,1
+2025-02-16,Groceries,United States,4800.0,4.0,1
+2025-02-17,Groceries,United States,4500.0,3.0,1
+2025-02-17,Home,Nigeria,1500.0,1.0,1
+2025-02-18,Electronics,Nigeria,499.99,1.0,1
+2025-02-18,Fashion,Turkey,999.98,2.0,1
+2025-02-18,Groceries,Ghana,1500.0,3.0,1
+2025-02-19,Electronics,Ghana,1500.0,3.0,1
+2025-02-19,Electronics,Nigeria,4800.0,4.0,1
+2025-02-19,Electronics,United Kingdom,1500.0,1.0,1
+2025-02-19,Fashion,Nigeria,499.99,1.0,1
+2025-02-20,Fashion,Nigeria,1500.0,1.0,1
+2025-02-20,Groceries,United Kingdom,999.98,2.0,1
+2025-02-21,Electronics,Nigeria,1200.0,1.0,1
+2025-02-22,Electronics,Nigeria,2500.0,5.0,1
+2025-02-22,Fashion,United States,2400.0,2.0,1
+2025-02-22,Groceries,Ghana,499.99,1.0,1
+2025-02-23,Electronics,Nigeria,2500.0,1.0,1
+2025-02-23,Groceries,Nigeria,1000.0,2.0,1
+2025-02-24,Fashion,United States,2500.0,1.0,1
+2025-02-24,Home,United States,2500.0,5.0,1
+2025-02-25,Electronics,United States,499.99,1.0,1
+2025-02-26,Groceries,Ghana,2500.0,5.0,1
+2025-02-27,Fashion,Ghana,2500.0,5.0,1
+2025-02-27,Groceries,Ghana,2400.0,2.0,1
+2025-02-28,Groceries,United Kingdom,5000.0,2.0,1
+2025-03-02,Electronics,Nigeria,500.0,1.0,1
+2025-03-02,Electronics,Turkey,5000.0,2.0,1
+2025-03-02,Fashion,United Kingdom,7500.0,3.0,1
+2025-03-02,Groceries,United States,499.99,1.0,1
+2025-03-03,Fashion,Nigeria,5000.0,2.0,1
+2025-03-03,Fashion,United States,499.99,1.0,1
+2025-03-03,Groceries,Nigeria,2500.0,1.0,1
+2025-03-03,Groceries,Turkey,12500.0,5.0,1
+2025-03-04,Electronics,Nigeria,2499.95,5.0,1
+2025-03-04,Groceries,Nigeria,4500.0,3.0,1
+2025-03-05,Electronics,Ghana,6000.0,4.0,2
+2025-03-05,Electronics,Nigeria,5000.0,2.0,1
+2025-03-05,Fashion,Nigeria,2500.0,1.0,1
+2025-03-06,Electronics,Turkey,3000.0,2.0,1
+2025-03-06,Fashion,United Kingdom,4800.0,4.0,1
+2025-03-08,Electronics,Nigeria,7000.0,7.0,2
+2025-03-08,Electronics,Turkey,4500.0,3.0,1
+2025-03-09,Electronics,Nigeria,1500.0,3.0,1
+2025-03-10,Home,Nigeria,2500.0,1.0,1
+2025-03-12,Electronics,United Kingdom,1000.0,2.0,1
+2025-03-12,Home,Ghana,500.0,1.0,1
+2025-03-13,Electronics,Nigeria,4500.0,3.0,1
+2025-03-13,Fashion,Turkey,7500.0,5.0,1
+2025-03-13,Fashion,United States,1500.0,1.0,1
+2025-03-14,Electronics,Nigeria,2400.0,2.0,1
+2025-03-14,Electronics,Turkey,500.0,1.0,1
+2025-03-15,Electronics,Ghana,499.99,1.0,1
+2025-03-15,Fashion,United States,3000.0,2.0,1
+2025-03-15,Home,Nigeria,499.99,1.0,1
+2025-03-16,Electronics,United States,499.99,1.0,1
+2025-03-17,Electronics,United States,499.99,1.0,1
+2025-03-18,Electronics,Turkey,3600.0,3.0,1
+2025-03-18,Groceries,Nigeria,1500.0,1.0,1
+2025-03-19,Electronics,United States,1200.0,1.0,1
+2025-03-20,Electronics,United States,2400.0,2.0,1
+2025-03-20,Groceries,Turkey,2499.95,5.0,1
+2025-03-21,Electronics,Nigeria,499.99,1.0,1
+2025-03-21,Groceries,Nigeria,3600.0,3.0,1
+2025-03-22,Electronics,United Kingdom,2400.0,2.0,1
+2025-03-23,Electronics,Ghana,500.0,1.0,1
+2025-03-23,Electronics,United Kingdom,5000.0,2.0,1
+2025-03-23,Home,Nigeria,1000.0,2.0,1
+2025-03-23,Home,United States,6000.0,4.0,1
+2025-03-24,Electronics,Nigeria,4500.0,3.0,1
+2025-03-24,Electronics,United States,1200.0,1.0,1
+2025-03-24,Home,United States,3000.0,2.0,1
+2025-03-25,Home,Nigeria,500.0,1.0,1
+2025-03-27,Fashion,United States,1000.0,2.0,1
+2025-03-28,Fashion,Ghana,2499.95,5.0,1
+2025-03-28,Groceries,United Kingdom,1500.0,3.0,1
+2025-03-28,Home,United States,499.99,1.0,1
+2025-03-29,Home,United States,500.0,1.0,1
+2025-03-30,Electronics,United States,500.0,1.0,1
+2025-03-31,Electronics,Ghana,10000.0,4.0,1
+2025-03-31,Fashion,Ghana,1500.0,3.0,1
+2025-04-01,Electronics,Ghana,7500.0,5.0,1
+2025-04-01,Groceries,United States,4999.99,4.0,2
+2025-04-01,Home,Turkey,500.0,1.0,1
+2025-04-02,Electronics,Ghana,1000.0,2.0,1
+2025-04-02,Electronics,United States,2400.0,2.0,1
+2025-04-02,Fashion,Ghana,499.99,1.0,1
+2025-04-02,Fashion,Nigeria,500.0,1.0,1
+2025-04-02,Groceries,Nigeria,2000.0,4.0,1
+2025-04-03,Groceries,United States,1200.0,1.0,1
+2025-04-04,Electronics,United States,999.98,2.0,1
+2025-04-04,Home,United Kingdom,7500.0,3.0,1
+2025-04-05,Electronics,Nigeria,2500.0,1.0,1
+2025-04-05,Electronics,Turkey,2500.0,1.0,1
+2025-04-06,Fashion,Ghana,500.0,1.0,1
+2025-04-06,Home,Nigeria,499.99,1.0,1
+2025-04-07,Fashion,Ghana,500.0,1.0,1
+2025-04-07,Groceries,Nigeria,7500.0,3.0,1
+2025-04-08,Electronics,Ghana,1200.0,1.0,1
+2025-04-08,Electronics,United States,999.98,2.0,1
+2025-04-10,Electronics,United States,2500.0,1.0,1
+2025-04-10,Groceries,Nigeria,999.98,2.0,1
+2025-04-13,Electronics,United Kingdom,1499.97,3.0,1
+2025-04-13,Fashion,Nigeria,1500.0,3.0,1
+2025-04-13,Fashion,United States,500.0,1.0,1
+2025-04-13,Groceries,United States,500.0,1.0,1
+2025-04-14,Electronics,United Kingdom,1500.0,1.0,1
+2025-04-14,Electronics,United States,1200.0,1.0,1
+2025-04-15,Electronics,United States,1000.0,2.0,1
+2025-04-16,Groceries,Nigeria,1700.0,2.0,2
+2025-04-16,Home,United Kingdom,3000.0,2.0,1
+2025-04-17,Electronics,United States,2500.0,5.0,1
+2025-04-17,Groceries,United States,1200.0,1.0,1
+2025-04-17,Home,Ghana,500.0,1.0,1
+2025-04-17,Home,Nigeria,2500.0,1.0,1
+2025-04-18,Electronics,Nigeria,9800.0,6.0,2
+2025-04-20,Electronics,United States,2500.0,1.0,1
+2025-04-20,Fashion,Nigeria,2500.0,5.0,1
+2025-04-20,Groceries,United States,1000.0,2.0,1
+2025-04-21,Groceries,United States,6000.0,5.0,1
+2025-04-23,Electronics,Ghana,500.0,1.0,1
+2025-04-24,Electronics,Nigeria,2500.0,1.0,1
+2025-04-24,Home,United Kingdom,1500.0,3.0,1
+2025-04-25,Electronics,Ghana,500.0,1.0,1
+2025-04-25,Electronics,Turkey,6000.0,5.0,1
+2025-04-25,Groceries,United States,4800.0,4.0,1
+2025-04-26,Electronics,Ghana,1500.0,1.0,1
+2025-04-27,Electronics,Nigeria,5000.0,2.0,1
+2025-04-27,Fashion,Nigeria,1000.0,2.0,1
+2025-04-27,Groceries,United States,10000.0,4.0,1
+2025-04-27,Home,Turkey,999.98,2.0,1
+2025-04-27,Home,United States,4800.0,4.0,1
+2025-04-28,Fashion,United States,500.0,1.0,1
+2025-04-29,Electronics,Nigeria,7500.0,3.0,1
+2025-04-29,Groceries,Ghana,2000.0,4.0,1
+2025-04-30,Electronics,Nigeria,1500.0,1.0,1
+2025-04-30,Fashion,Nigeria,1000.0,2.0,1
+2025-04-30,Home,United States,1200.0,1.0,1
+2025-05-04,Fashion,Nigeria,10000.0,4.0,1
+2025-05-05,Home,Ghana,1200.0,1.0,1
+2025-05-06,Electronics,Turkey,1500.0,1.0,1
+2025-05-07,Electronics,Nigeria,3000.0,2.0,1
+2025-05-08,Fashion,Nigeria,2400.0,2.0,1
+2025-05-09,Electronics,Nigeria,1000.0,2.0,1
+2025-05-09,Fashion,Nigeria,4500.0,3.0,1
+2025-05-09,Groceries,United States,1200.0,1.0,1
+2025-05-10,Electronics,United Kingdom,7500.0,5.0,1
+2025-05-10,Electronics,United States,500.0,1.0,1
+2025-05-11,Fashion,United States,500.0,1.0,1
+2025-05-11,Home,Nigeria,1500.0,3.0,1
+2025-05-13,Electronics,Ghana,5000.0,2.0,1
+2025-05-13,Electronics,United States,4500.0,3.0,1
+2025-05-13,Home,Ghana,499.99,1.0,1
+2025-05-14,Fashion,Nigeria,3000.0,2.0,1
+2025-05-14,Groceries,Ghana,2500.0,1.0,1
+2025-05-15,Electronics,Nigeria,1500.0,3.0,1
+2025-05-15,Groceries,Ghana,999.98,2.0,1
+2025-05-16,Electronics,Ghana,1000.0,2.0,1
+2025-05-16,Home,Ghana,2500.0,1.0,1
+2025-05-18,Fashion,United States,10000.0,4.0,1
+2025-05-19,Electronics,Ghana,2500.0,1.0,1
+2025-05-19,Electronics,United States,1500.0,3.0,1
+2025-05-21,Electronics,Nigeria,500.0,1.0,1
+2025-05-21,Groceries,United Kingdom,500.0,1.0,1
+2025-05-22,Groceries,Nigeria,5000.0,2.0,1
+2025-05-23,Groceries,Nigeria,500.0,1.0,1
+2025-05-24,Electronics,Nigeria,1500.0,1.0,1
+2025-05-24,Electronics,United States,1200.0,1.0,1
+2025-05-24,Groceries,Nigeria,1500.0,1.0,1
+2025-05-25,Electronics,Ghana,2500.0,1.0,1
+2025-05-25,Fashion,Nigeria,7500.0,5.0,1
+2025-05-25,Fashion,United States,500.0,1.0,1
+2025-05-26,Electronics,United States,1000.0,2.0,1
+2025-05-28,Groceries,United Kingdom,1200.0,1.0,1
+2025-05-31,Electronics,United Kingdom,3000.0,2.0,1
+2025-05-31,Groceries,United Kingdom,2500.0,1.0,1
+2025-06-01,Groceries,United Kingdom,6000.0,4.0,1
+2025-06-03,Groceries,Nigeria,1999.96,4.0,1
+2025-06-04,Electronics,United Kingdom,2500.0,5.0,1
+2025-06-04,Fashion,United States,1500.0,3.0,1
+2025-06-04,Groceries,United States,7500.0,3.0,1
+2025-06-05,Fashion,Nigeria,6299.97,7.0,2
+2025-06-05,Groceries,Turkey,1500.0,1.0,1
+2025-06-06,Electronics,Turkey,1500.0,3.0,1
+2025-06-06,Fashion,Nigeria,3000.0,2.0,1
+2025-06-06,Groceries,Ghana,2000.0,4.0,1
+2025-06-07,Electronics,Nigeria,8400.0,7.0,2
+2025-06-08,Electronics,Nigeria,5000.0,2.0,1
+2025-06-08,Fashion,United Kingdom,500.0,1.0,1
+2025-06-08,Home,United States,5000.0,2.0,1
+2025-06-09,Home,Ghana,1000.0,2.0,1
+2025-06-11,Electronics,United States,499.99,1.0,1
+2025-06-11,Fashion,Nigeria,999.98,2.0,1
+2025-06-13,Electronics,Nigeria,1499.97,3.0,1
+2025-06-14,Fashion,Nigeria,1000.0,2.0,1
+2025-06-14,Fashion,United States,2500.0,5.0,1
+2025-06-14,Groceries,Nigeria,5000.0,2.0,1
+2025-06-15,Electronics,United Kingdom,500.0,1.0,1
+2025-06-15,Home,Ghana,2400.0,2.0,1
+2025-06-17,Fashion,Nigeria,1200.0,1.0,1
+2025-06-18,Electronics,Nigeria,4500.0,3.0,1
+2025-06-20,Electronics,Ghana,1500.0,1.0,1
+2025-06-20,Fashion,Nigeria,1500.0,3.0,1
+2025-06-20,Fashion,United Kingdom,2500.0,5.0,1
+2025-06-20,Groceries,Nigeria,6000.0,4.0,1
+2025-06-21,Electronics,Nigeria,6000.0,4.0,1
+2025-06-21,Fashion,Nigeria,1000.0,2.0,1
+2025-06-22,Electronics,Nigeria,4500.0,3.0,1
+2025-06-22,Groceries,United States,2400.0,2.0,1
+2025-06-23,Groceries,Nigeria,6000.0,5.0,1
+2025-06-24,Fashion,Nigeria,2400.0,2.0,1
+2025-06-24,Groceries,United Kingdom,3000.0,2.0,1
+2025-06-28,Groceries,United Kingdom,2500.0,5.0,1
+2025-06-29,Electronics,Nigeria,10000.0,4.0,1
+2025-06-29,Fashion,United Kingdom,2400.0,2.0,1
+2025-07-03,Fashion,Nigeria,3600.0,3.0,1
+2025-07-03,Home,United States,500.0,1.0,1
+2025-07-04,Groceries,United States,2500.0,1.0,1
+2025-07-05,Home,Nigeria,2500.0,5.0,1
+2025-07-06,Electronics,Ghana,1000.0,2.0,1
+2025-07-06,Fashion,Ghana,1500.0,3.0,1
+2025-07-06,Home,United Kingdom,2500.0,1.0,1
+2025-07-08,Electronics,Ghana,1000.0,2.0,1
+2025-07-08,Fashion,Nigeria,499.99,1.0,1
+2025-07-08,Groceries,Ghana,1500.0,3.0,1
+2025-07-09,Electronics,Nigeria,999.98,2.0,1
+2025-07-11,Groceries,Ghana,1499.97,3.0,1
+2025-07-11,Groceries,United States,2000.0,4.0,1
+2025-07-12,Fashion,Nigeria,3000.0,2.0,1
+2025-07-12,Groceries,Nigeria,1999.96,4.0,1
+2025-07-13,Fashion,Ghana,2500.0,1.0,1
+2025-07-13,Home,United States,1000.0,2.0,1
+2025-07-14,Fashion,Nigeria,999.98,2.0,1
+2025-07-15,Electronics,United States,2500.0,1.0,1
+2025-07-17,Electronics,United Kingdom,1000.0,2.0,1
+2025-07-18,Electronics,Ghana,5800.0,6.0,2
+2025-07-18,Electronics,Nigeria,10000.0,4.0,1
+2025-07-18,Fashion,United Kingdom,2500.0,1.0,1
+2025-07-19,Electronics,Nigeria,3600.0,3.0,1
+2025-07-19,Electronics,Turkey,2500.0,5.0,1
+2025-07-19,Groceries,United States,3999.97,4.0,2
+2025-07-19,Home,Turkey,3600.0,3.0,1
+2025-07-20,Electronics,Nigeria,1500.0,3.0,1
+2025-07-21,Electronics,Ghana,1500.0,3.0,1
+2025-07-21,Electronics,Nigeria,1499.97,3.0,1
+2025-07-21,Groceries,Ghana,500.0,1.0,1
+2025-07-21,Home,United States,4500.0,3.0,1
+2025-07-23,Groceries,Nigeria,2000.0,4.0,1
+2025-07-26,Home,Nigeria,2500.0,1.0,1
+2025-07-27,Electronics,Turkey,999.98,2.0,1
+2025-07-27,Fashion,United States,3000.0,2.0,1
+2025-07-27,Groceries,United States,999.98,2.0,1
+2025-07-27,Home,United States,1200.0,1.0,1
+2025-07-28,Electronics,Nigeria,1200.0,1.0,1
+2025-07-28,Fashion,Nigeria,999.98,2.0,2
+2025-07-28,Home,Turkey,3600.0,3.0,1
+2025-07-29,Electronics,Turkey,499.99,1.0,1
+2025-07-29,Electronics,United States,12500.0,5.0,1
+2025-07-29,Home,Nigeria,2499.95,5.0,1
+2025-07-30,Electronics,United States,1200.0,1.0,1
+2025-07-31,Groceries,United States,4800.0,4.0,1
+2025-08-01,Electronics,Nigeria,499.99,1.0,1
+2025-08-03,Electronics,Turkey,1500.0,3.0,1
+2025-08-03,Electronics,United States,1999.96,4.0,1
+2025-08-03,Groceries,Nigeria,12400.0,6.0,2
+2025-08-04,Groceries,Turkey,999.98,2.0,1
+2025-08-05,Electronics,Nigeria,2400.0,2.0,1
+2025-08-05,Electronics,United Kingdom,1500.0,3.0,1
+2025-08-05,Electronics,United States,7500.0,3.0,1
+2025-08-06,Electronics,United States,500.0,1.0,1
+2025-08-07,Electronics,Ghana,4800.0,4.0,1
+2025-08-07,Electronics,United States,12500.0,5.0,1
+2025-08-07,Groceries,Nigeria,6000.0,5.0,1
+2025-08-08,Electronics,United States,12500.0,5.0,1
+2025-08-10,Electronics,Ghana,3000.0,2.0,1
+2025-08-10,Electronics,Nigeria,999.98,2.0,1
+2025-08-10,Electronics,United Kingdom,5000.0,2.0,1
+2025-08-11,Electronics,Nigeria,1200.0,1.0,1
+2025-08-11,Fashion,Nigeria,3000.0,2.0,1
+2025-08-11,Groceries,Nigeria,6000.0,5.0,1
+2025-08-11,Groceries,United States,2000.0,4.0,1
+2025-08-11,Home,Ghana,499.99,1.0,1
+2025-08-12,Electronics,United States,1500.0,3.0,1
+2025-08-13,Home,United States,499.99,1.0,1
+2025-08-14,Home,United States,499.99,1.0,1
+2025-08-15,Electronics,Nigeria,4500.0,3.0,1
+2025-08-15,Groceries,Nigeria,2499.95,5.0,1
+2025-08-16,Electronics,United States,2400.0,2.0,1
+2025-08-16,Fashion,United States,2400.0,2.0,1
+2025-08-17,Electronics,Nigeria,4499.96,5.0,2
+2025-08-17,Electronics,United Kingdom,5000.0,2.0,1
+2025-08-17,Groceries,Nigeria,1000.0,2.0,1
+2025-08-17,Home,United Kingdom,2000.0,4.0,1
+2025-08-18,Electronics,Ghana,1000.0,2.0,1
+2025-08-18,Electronics,Nigeria,12500.0,5.0,1
+2025-08-18,Electronics,United States,2400.0,2.0,1
+2025-08-18,Fashion,Ghana,499.99,1.0,1
+2025-08-18,Home,United States,4800.0,4.0,1
+2025-08-20,Electronics,Ghana,2500.0,5.0,1
+2025-08-20,Electronics,United States,1500.0,1.0,1
+2025-08-21,Electronics,United Kingdom,3600.0,3.0,1
+2025-08-22,Electronics,United States,2000.0,4.0,1
+2025-08-22,Home,United Kingdom,3000.0,2.0,1
+2025-08-23,Fashion,Nigeria,7500.0,3.0,1
+2025-08-24,Electronics,Turkey,499.99,1.0,1
+2025-08-24,Groceries,Nigeria,500.0,1.0,1
+2025-08-24,Groceries,United Kingdom,3000.0,2.0,1
+2025-08-25,Electronics,Nigeria,500.0,1.0,1
+2025-08-26,Electronics,Turkey,2499.95,5.0,1
+2025-08-26,Electronics,United States,5000.0,2.0,1
+2025-08-26,Fashion,Nigeria,3600.0,3.0,1
+2025-08-26,Groceries,Nigeria,2400.0,2.0,1
+2025-08-27,Groceries,Nigeria,1500.0,3.0,1
+2025-08-28,Electronics,Nigeria,12500.0,5.0,1
+2025-08-28,Electronics,United Kingdom,1500.0,1.0,1
+2025-08-28,Electronics,United States,10000.0,4.0,1
+2025-08-28,Groceries,Turkey,10000.0,4.0,1
+2025-08-29,Electronics,Nigeria,1000.0,2.0,1
+2025-08-29,Electronics,Turkey,1500.0,3.0,1
+2025-08-29,Electronics,United Kingdom,6000.0,4.0,1
+2025-08-29,Fashion,Nigeria,1000.0,2.0,1
+2025-08-30,Electronics,United Kingdom,10000.0,4.0,1
+2025-08-31,Electronics,Ghana,1500.0,1.0,1
+2025-08-31,Electronics,Nigeria,2000.0,4.0,1
+2025-09-01,Electronics,Nigeria,15200.0,7.0,3
+2025-09-01,Groceries,United Kingdom,2500.0,1.0,1
+2025-09-01,Home,Nigeria,4800.0,4.0,1
+2025-09-02,Electronics,Turkey,3000.0,2.0,1
+2025-09-02,Home,Nigeria,999.98,2.0,1
+2025-09-03,Electronics,Ghana,1200.0,1.0,1
+2025-09-03,Fashion,Ghana,2000.0,4.0,1
+2025-09-03,Groceries,Ghana,4800.0,4.0,1
+2025-09-05,Home,Ghana,3000.0,2.0,1
+2025-09-06,Electronics,United Kingdom,7500.0,5.0,1
+2025-09-06,Fashion,Nigeria,3600.0,3.0,1
+2025-09-07,Groceries,Nigeria,4500.0,3.0,1
+2025-09-07,Home,Ghana,499.99,1.0,1
+2025-09-08,Electronics,United Kingdom,2400.0,2.0,1
+2025-09-08,Groceries,Ghana,5000.0,2.0,1
+2025-09-09,Electronics,Ghana,4800.0,4.0,1
+2025-09-09,Electronics,Turkey,1500.0,3.0,1
+2025-09-09,Home,United States,1000.0,2.0,1
+2025-09-10,Electronics,Nigeria,4499.99,9.0,3
+2025-09-10,Electronics,United States,1500.0,3.0,1
+2025-09-12,Groceries,United States,500.0,1.0,1
+2025-09-13,Electronics,Nigeria,1200.0,1.0,1
+2025-09-13,Home,United States,2400.0,2.0,1
+2025-09-14,Fashion,Nigeria,499.99,1.0,1
+2025-09-14,Groceries,Nigeria,2500.0,5.0,1
+2025-09-14,Groceries,United States,1499.97,3.0,1
+2025-09-14,Home,Nigeria,2500.0,1.0,1
+2025-09-15,Electronics,Nigeria,3600.0,3.0,1
+2025-09-15,Home,United States,2000.0,4.0,1
+2025-09-16,Groceries,Nigeria,1200.0,1.0,1
+2025-09-17,Electronics,Nigeria,1200.0,1.0,1
+2025-09-17,Electronics,Turkey,5000.0,2.0,1
+2025-09-17,Home,Nigeria,1500.0,1.0,1
+2025-09-18,Electronics,Nigeria,10000.0,4.0,1
+2025-09-18,Fashion,Ghana,500.0,1.0,1
+2025-09-18,Groceries,United States,7500.0,3.0,1
+2025-09-19,Electronics,Ghana,4800.0,4.0,1
+2025-09-19,Electronics,Nigeria,2499.95,5.0,1
+2025-09-19,Groceries,United Kingdom,1499.97,3.0,1
+2025-09-20,Electronics,Ghana,1500.0,3.0,1
+2025-09-21,Electronics,Nigeria,1500.0,3.0,1
+2025-09-21,Home,United Kingdom,1500.0,1.0,1
+2025-09-22,Home,Nigeria,5000.0,2.0,1
+2025-09-23,Electronics,Nigeria,2500.0,1.0,1
+2025-09-23,Electronics,United States,2500.0,5.0,1
+2025-09-23,Groceries,United Kingdom,1999.96,4.0,1
+2025-09-24,Fashion,Nigeria,1500.0,1.0,1
+2025-09-24,Home,Ghana,7500.0,3.0,1
+2025-09-25,Electronics,Nigeria,999.98,2.0,1
+2025-09-27,Home,Ghana,3600.0,3.0,1
+2025-09-28,Groceries,Ghana,2500.0,5.0,1
+2025-09-28,Groceries,United States,499.99,1.0,1
+2025-09-29,Home,Turkey,1500.0,3.0,1
+2025-09-30,Electronics,Nigeria,999.98,2.0,1
+2025-09-30,Groceries,Ghana,4500.0,3.0,1
+2025-10-01,Electronics,Nigeria,999.98,2.0,1
+2025-10-02,Electronics,Nigeria,4500.0,3.0,1
+2025-10-02,Groceries,United Kingdom,2500.0,1.0,1
+2025-10-03,Electronics,United States,3000.0,2.0,1
+2025-10-03,Home,United States,499.99,1.0,1
+2025-10-04,Electronics,Ghana,12500.0,5.0,1
+2025-10-04,Groceries,United Kingdom,3000.0,2.0,1
+2025-10-05,Electronics,United States,4000.0,6.0,2
+2025-10-05,Groceries,United States,5000.0,2.0,1
+2025-10-05,Home,United States,7500.0,3.0,1
+2025-10-06,Electronics,United States,4800.0,4.0,1
+2025-10-06,Fashion,Nigeria,2400.0,2.0,1
+2025-10-07,Electronics,Nigeria,2000.0,4.0,2
+2025-10-07,Fashion,United States,1000.0,2.0,1
+2025-10-07,Home,Turkey,4500.0,3.0,1
+2025-10-08,Electronics,Nigeria,1200.0,1.0,1
+2025-10-09,Electronics,Ghana,3000.0,2.0,1
+2025-10-09,Groceries,United States,2699.97,4.0,2
+2025-10-10,Electronics,Nigeria,2500.0,5.0,1
+2025-10-11,Groceries,Nigeria,3000.0,2.0,1
+2025-10-11,Groceries,United States,3000.0,2.0,1
+2025-10-12,Groceries,United States,10000.0,4.0,1
+2025-10-12,Home,United Kingdom,1200.0,1.0,1
+2025-10-13,Electronics,United Kingdom,500.0,1.0,1
+2025-10-13,Groceries,Nigeria,3600.0,3.0,1
+2025-10-13,Groceries,United Kingdom,1200.0,1.0,1
+2025-10-14,Fashion,United Kingdom,2500.0,1.0,1
+2025-10-14,Groceries,United States,3600.0,3.0,1
+2025-10-15,Electronics,Turkey,3000.0,2.0,1
+2025-10-15,Home,United States,1500.0,1.0,1
+2025-10-16,Groceries,Nigeria,2499.95,5.0,1
+2025-10-17,Fashion,United States,2000.0,4.0,1
+2025-10-17,Groceries,Nigeria,999.98,2.0,1
+2025-10-18,Groceries,United States,5000.0,2.0,1
+2025-10-19,Electronics,Nigeria,1000.0,2.0,1
+2025-10-19,Groceries,Ghana,2500.0,5.0,1
+2025-10-19,Groceries,United Kingdom,2000.0,4.0,1
+2025-10-19,Home,Ghana,2500.0,1.0,1
+2025-10-20,Electronics,Ghana,6000.0,5.0,1
+2025-10-20,Electronics,Nigeria,1200.0,1.0,1
+2025-10-20,Fashion,Nigeria,7500.0,5.0,1
+2025-10-21,Home,United States,1500.0,3.0,1
+2025-10-26,Groceries,Ghana,5000.0,2.0,1
+2025-10-26,Groceries,Nigeria,6500.0,5.0,2
+2025-10-26,Home,United Kingdom,2499.95,5.0,1
+2025-10-27,Electronics,Ghana,6000.0,5.0,1
+2025-10-27,Electronics,Turkey,500.0,1.0,1
+2025-10-29,Electronics,Turkey,3000.0,2.0,1
+2025-10-29,Groceries,Ghana,7500.0,5.0,1
+2025-10-29,Groceries,United States,2000.0,4.0,1
+2025-10-31,Electronics,United States,500.0,1.0,1
+2025-11-02,Home,Nigeria,499.99,1.0,1
+2025-11-03,Groceries,United States,7500.0,5.0,1
+2025-11-04,Fashion,Turkey,2500.0,5.0,1
+2025-11-05,Electronics,United States,1000.0,2.0,1
+2025-11-05,Groceries,United Kingdom,1999.96,4.0,1
+2025-11-06,Fashion,Nigeria,2500.0,1.0,1
+2025-11-07,Electronics,Turkey,2000.0,4.0,1
+2025-11-07,Groceries,Nigeria,1499.97,3.0,1
+2025-11-08,Electronics,United States,1499.97,3.0,1
+2025-11-09,Electronics,Turkey,1200.0,1.0,1
+2025-11-09,Fashion,United States,12500.0,5.0,1
+2025-11-10,Groceries,Nigeria,500.0,1.0,1
+2025-11-10,Groceries,United Kingdom,1499.97,3.0,1
+2025-11-10,Home,Turkey,2500.0,1.0,1
+2025-11-11,Electronics,Nigeria,2500.0,1.0,1
+2025-11-12,Electronics,Nigeria,2500.0,5.0,1
+2025-11-12,Groceries,Nigeria,12500.0,5.0,1
+2025-11-13,Fashion,Nigeria,1500.0,3.0,1
+2025-11-13,Groceries,Ghana,500.0,1.0,1
+2025-11-14,Electronics,Nigeria,3000.0,2.0,1
+2025-11-14,Groceries,Nigeria,2000.0,4.0,1
+2025-11-15,Electronics,United States,2500.0,1.0,1
+2025-11-15,Groceries,United States,1200.0,1.0,1
+2025-11-16,Groceries,Ghana,5000.0,2.0,1
+2025-11-17,Home,Nigeria,1500.0,1.0,1
+2025-11-18,Electronics,United Kingdom,1500.0,3.0,1
+2025-11-18,Fashion,United States,1000.0,2.0,1
+2025-11-19,Electronics,Nigeria,12000.0,10.0,2
+2025-11-19,Electronics,Turkey,499.99,1.0,1
+2025-11-19,Groceries,Nigeria,1500.0,3.0,1
+2025-11-19,Groceries,Turkey,1500.0,3.0,1
+2025-11-20,Groceries,Nigeria,499.99,1.0,1
+2025-11-22,Electronics,Nigeria,2000.0,4.0,1
+2025-11-22,Groceries,Turkey,3000.0,2.0,1
+2025-11-23,Fashion,Turkey,3600.0,3.0,1
+2025-11-24,Fashion,United Kingdom,1000.0,2.0,1
+2025-11-25,Groceries,United States,1200.0,1.0,1
+2025-11-25,Home,Nigeria,6000.0,5.0,1
+2025-11-26,Fashion,United Kingdom,499.99,1.0,1
+2025-11-26,Groceries,United States,1000.0,2.0,1
+2025-11-27,Home,United States,5000.0,2.0,1
+2025-11-28,Electronics,Nigeria,1000.0,2.0,1
+2025-11-28,Electronics,United States,5000.0,2.0,1
+2025-11-28,Groceries,United States,4800.0,4.0,1
+2025-11-29,Electronics,Nigeria,7500.0,5.0,1
+2025-11-29,Fashion,Nigeria,10499.99,5.0,2
+2025-11-29,Fashion,United States,2500.0,5.0,1
+2025-11-29,Groceries,Nigeria,1500.0,1.0,1
+2025-11-29,Groceries,United Kingdom,1500.0,3.0,1
+2025-11-30,Groceries,Ghana,500.0,1.0,1
+2025-12-01,Fashion,Nigeria,1500.0,1.0,1
+2025-12-01,Groceries,Ghana,7500.0,3.0,1
+2025-12-01,Groceries,Nigeria,5000.0,2.0,1
+2025-12-02,Electronics,Ghana,500.0,1.0,1
+2025-12-05,Electronics,Turkey,999.98,2.0,1
+2025-12-05,Electronics,United Kingdom,999.98,2.0,1
+2025-12-06,Fashion,Ghana,500.0,1.0,1
+2025-12-06,Groceries,Nigeria,1500.0,1.0,1
+2025-12-07,Groceries,United Kingdom,1999.96,4.0,1
+2025-12-08,Electronics,Ghana,500.0,1.0,1
+2025-12-08,Home,United Kingdom,3000.0,2.0,1
+2025-12-10,Electronics,Ghana,3000.0,2.0,1
+2025-12-11,Groceries,Nigeria,1999.96,4.0,1
+2025-12-11,Home,Nigeria,1499.97,3.0,1
+2025-12-12,Electronics,United States,2200.0,3.0,2
+2025-12-13,Groceries,Ghana,500.0,1.0,1
+2025-12-14,Electronics,United States,7500.0,3.0,1
+2025-12-14,Home,United States,3600.0,3.0,1
+2025-12-16,Groceries,United Kingdom,5000.0,2.0,1
+2025-12-17,Groceries,United Kingdom,1999.96,4.0,1
+2025-12-17,Home,Nigeria,500.0,1.0,1
+2025-12-18,Electronics,United States,999.98,2.0,1
+2025-12-18,Groceries,Ghana,1500.0,3.0,1
+2025-12-18,Groceries,United States,500.0,1.0,1
+2025-12-18,Home,Nigeria,999.98,2.0,1
+2025-12-19,Electronics,Ghana,4800.0,4.0,1
+2025-12-19,Electronics,United States,1500.0,1.0,1
+2025-12-19,Fashion,Turkey,6000.0,5.0,1
+2025-12-20,Groceries,Turkey,1500.0,1.0,1
+2025-12-21,Home,United States,3600.0,3.0,1
+2025-12-22,Fashion,United Kingdom,1000.0,2.0,1
+2025-12-23,Electronics,Nigeria,7500.0,3.0,1
+2025-12-23,Electronics,United States,1500.0,3.0,1
+2025-12-24,Electronics,Nigeria,1500.0,3.0,1
+2025-12-24,Electronics,Turkey,500.0,1.0,1
+2025-12-24,Fashion,Nigeria,999.98,2.0,1
+2025-12-24,Fashion,Turkey,999.98,2.0,1
+2025-12-25,Electronics,Nigeria,1500.0,1.0,1
+2025-12-25,Fashion,United Kingdom,1200.0,1.0,1
+2025-12-26,Electronics,Nigeria,2400.0,2.0,1
+2025-12-26,Fashion,Nigeria,4800.0,4.0,2
+2025-12-26,Home,Nigeria,6000.0,5.0,1
+2025-12-28,Groceries,Ghana,8400.0,7.0,2
+2025-12-28,Home,United States,4500.0,3.0,1
+2025-12-30,Electronics,Nigeria,1000.0,2.0,1
+2025-12-30,Home,Turkey,3000.0,2.0,1
+2025-12-31,Electronics,Nigeria,1499.97,3.0,1
+2026-01-01,Fashion,Ghana,6000.0,4.0,1
+2026-01-01,Groceries,Ghana,2400.0,2.0,1
+2026-01-01,Groceries,Nigeria,2400.0,2.0,1
+2026-01-02,Electronics,Nigeria,1000.0,2.0,1
+2026-01-03,Groceries,United Kingdom,3600.0,3.0,1
+2026-01-04,Electronics,United States,10800.0,8.0,2
+2026-01-04,Groceries,Nigeria,6000.0,5.0,1
+2026-01-04,Groceries,United States,7500.0,3.0,1
+2026-01-05,Electronics,Ghana,3000.0,2.0,1
+2026-01-05,Electronics,United States,2500.0,5.0,1
+2026-01-05,Fashion,United States,999.98,2.0,1
+2026-01-05,Groceries,Nigeria,7500.0,3.0,1
+2026-01-06,Electronics,United States,1500.0,1.0,1
+2026-01-06,Fashion,Nigeria,7500.0,3.0,1
+2026-01-08,Electronics,Ghana,12500.0,5.0,1
+2026-01-09,Electronics,Nigeria,2500.0,5.0,1
+2026-01-09,Home,United States,2400.0,2.0,1
+2026-01-11,Fashion,Ghana,999.98,2.0,1
+2026-01-11,Groceries,Ghana,1999.96,4.0,1
+2026-01-12,Fashion,United States,1200.0,1.0,1
+2026-01-12,Groceries,United States,1200.0,1.0,1
+2026-01-15,Electronics,United States,2400.0,2.0,1
+2026-01-16,Electronics,United Kingdom,12500.0,5.0,1
+2026-01-17,Electronics,United Kingdom,1999.96,4.0,1
+2026-01-17,Fashion,United States,2500.0,5.0,1
+2026-01-19,Electronics,Ghana,1499.97,3.0,1
+2026-01-19,Groceries,United States,2400.0,2.0,1
+2026-01-20,Electronics,United States,2500.0,5.0,1
+2026-01-21,Electronics,Nigeria,5000.0,2.0,1
+2026-01-21,Fashion,United States,1000.0,2.0,1
+2026-01-22,Electronics,United Kingdom,1000.0,2.0,1
+2026-01-22,Electronics,United States,1000.0,2.0,1
+2026-01-23,Electronics,Ghana,1500.0,1.0,1
+2026-01-23,Electronics,Nigeria,500.0,1.0,1
+2026-01-24,Fashion,United States,7500.0,5.0,1
+2026-01-24,Groceries,Nigeria,999.98,2.0,1
+2026-01-25,Electronics,Turkey,2500.0,5.0,1
+2026-01-25,Electronics,United States,2500.0,5.0,1
+2026-01-25,Groceries,Nigeria,2400.0,2.0,1
+2026-01-26,Electronics,Nigeria,1499.97,3.0,1
+2026-01-26,Electronics,United States,1500.0,1.0,1
+2026-01-27,Groceries,Turkey,1500.0,1.0,1
+2026-01-28,Electronics,Ghana,1000.0,2.0,1
+2026-01-28,Electronics,Turkey,7500.0,3.0,1
+2026-01-28,Fashion,United States,1000.0,2.0,1
+2026-01-29,Electronics,Nigeria,4500.0,3.0,1
+2026-01-30,Electronics,Turkey,3600.0,3.0,1
+2026-01-31,Electronics,United States,1200.0,1.0,1
+2026-01-31,Fashion,United States,12500.0,5.0,1
+2026-02-01,Electronics,Nigeria,1000.0,2.0,1
+2026-02-01,Electronics,United Kingdom,2000.0,4.0,1
+2026-02-01,Fashion,Nigeria,1999.96,4.0,1
+2026-02-02,Electronics,United Kingdom,3000.0,2.0,1
+2026-02-02,Home,Turkey,1499.97,3.0,1
+2026-02-03,Electronics,United States,500.0,1.0,1
+2026-02-03,Fashion,Ghana,2500.0,5.0,1
+2026-02-04,Electronics,Ghana,500.0,1.0,1
+2026-02-04,Groceries,Nigeria,500.0,1.0,1
+2026-02-05,Groceries,United States,3000.0,2.0,1
+2026-02-06,Electronics,Nigeria,500.0,1.0,1
+2026-02-06,Groceries,Ghana,2000.0,4.0,1
+2026-02-07,Electronics,Ghana,999.98,2.0,1
+2026-02-07,Electronics,United States,2500.0,1.0,1
+2026-02-08,Electronics,United States,3000.0,2.0,1
+2026-02-08,Fashion,Nigeria,2500.0,5.0,1
+2026-02-08,Fashion,United States,1000.0,2.0,1
+2026-02-09,Fashion,United States,2000.0,4.0,1
+2026-02-10,Fashion,Nigeria,4800.0,4.0,1
+2026-02-11,Home,Ghana,1999.96,4.0,1
+2026-02-12,Electronics,United States,12300.0,7.0,2
+2026-02-13,Electronics,United States,499.99,1.0,1
+2026-02-13,Groceries,Nigeria,7500.0,3.0,1
+2026-02-13,Home,United States,500.0,1.0,1
+2026-02-15,Electronics,United States,1000.0,2.0,1
+2026-02-15,Home,United States,499.99,1.0,1
+2026-02-16,Electronics,United States,2500.0,5.0,1
+2026-02-17,Electronics,United Kingdom,1500.0,1.0,1
+2026-02-17,Electronics,United States,1000.0,2.0,1

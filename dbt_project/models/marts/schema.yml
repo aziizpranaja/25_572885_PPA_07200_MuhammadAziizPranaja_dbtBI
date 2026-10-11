@@ -1,0 +1,31 @@
+version: 2
+
+models:
+  - name: mart_daily_sales
+    description: >
+      Ringkasan penjualan FMCG per hari, kategori, dan wilayah.
+      Materialization incremental (delete+insert) dengan unique key
+      order_date + category + region; run berikutnya hanya memproses
+      tanggal terbaru. Dipakai dashboard untuk menjawab: berapa total
+      penjualan, kuantitas, dan jumlah order per hari.
+    columns:
+      - name: order_date
+        description: "Tanggal agregasi penjualan."
+        tests:
+          - not_null
+      - name: category
+        description: "Kategori produk; dipakai slicer dashboard."
+        tests:
+          - not_null
+      - name: region
+        description: "Wilayah penjualan yang sudah dinormalisasi."
+        tests:
+          - not_null
+      - name: total_sales
+        description: "Total penjualan pada grain tanggal-kategori-wilayah."
+        tests:
+          - not_null
+      - name: total_qty
+        description: "Total kuantitas item terjual."
+      - name: n_orders
+        description: "Jumlah order unik."
