@@ -22,7 +22,7 @@ Jangan pakai CSV output Airflow (`sales_daily.csv`).
 
 Dua halaman (chart tidak diulang):
 
-- **Overview:** KPI, line tren, bar ranking kategori, bar ranking wilayah, slicer category/region/year.
-- **Breakdown Wilayah:** KPI total penjualan, tabel, stacked 100% komposisi kategori, clustered column nilai kategori × wilayah.
+- **Overview:** KPI; line tren; bar ranking kategori; bar ranking wilayah; slicer tile kategori, dropdown wilayah, rentang tanggal.
+- **Breakdown Wilayah:** KPI total penjualan; tabel; stacked 100% komposisi kategori; clustered column nilai kategori × wilayah; slicer tanggal dan kategori.
 
 Elemen wajib: 1 KPI, 2 jenis chart, 1 slicer/filter.

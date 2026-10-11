@@ -81,6 +81,6 @@ Cara membuka:
 2. Double-click `dashboard/tugas_dwib.pbix`, atau File → Open di Power BI.
 3. Jika diminta sumber data, arahkan ke `dashboard/mart_daily_sales.csv`.
 
-Halaman: `Overview` (KPI, tren, kategori, wilayah) dan `Breakdown Wilayah` (ranking negara + komposisi kategori).
+Halaman: `Overview` (KPI, tren, ranking kategori & wilayah) dan `Breakdown Wilayah` (tabel, komposisi %, nilai kategori × wilayah).
 
 Rincian elemen ada di [`dashboard/README.md`](dashboard/README.md).

@@ -296,22 +296,22 @@ const doc = new Document({
         ),
 
         h("D. Dashboard"),
-        p("Dashboard dibangun di Power BI Desktop dari hasil mart_daily_sales (diekspor ke dashboard/mart_daily_sales.csv), bukan dari output agregasi Airflow. File dashboard: dashboard/tugas_dwib.pbix. Ada dua halaman (bonus +4%) dengan peran berbeda agar chart tidak diulang: Overview untuk ranking dan tren, Breakdown Wilayah untuk mix kategori. Interaktivitas: list slicer (single select dimatikan) pada kategori, wilayah, dan tahun, plus hierarki tanggal pada tren (drill-down bulan/hari)."),
-        p("Halaman Overview menjawab pertanyaan bisnis harian. KPI Jumlah Order, Total Penjualan, dan Total Kuantitas berada di atas. Line chart menampilkan tren; dua bar horizontal meranking kategori dan wilayah. Total penjualan mart tanpa filter: 3.648.994,68 dengan 3.269 kuantitas dan 1.320 order. Pada screenshot final, slicer Year = 2025 sehingga KPI Overview menjadi 1,84 juta / 650 order / 2 ribu kuantitas — bukti filter bekerja."),
+        p("Dashboard dibangun di Power BI Desktop dari hasil mart_daily_sales (diekspor ke dashboard/mart_daily_sales.csv), bukan dari output agregasi Airflow. File dashboard: dashboard/tugas_dwib.pbix. Ada dua halaman (bonus +4%) dengan peran berbeda agar chart tidak diulang: Overview untuk ranking dan tren, Breakdown Wilayah untuk mix kategori. Interaktivitas: tile slicer kategori (Electronics, Fashion, Groceries, Home; single select dimatikan), dropdown wilayah, dan slicer rentang Tanggal Order (18 Februari 2024–17 Februari 2026). Line chart mendukung drill-down hierarki tanggal."),
+        p("Halaman Overview menjawab pertanyaan bisnis harian. Tiga KPI di atas: Jumlah Order, Total Penjualan, dan Total Kuantitas. Line chart menampilkan tren; dua bar horizontal meranking kategori dan wilayah (satu warna, makna pada panjang batang). Total penjualan mart tanpa filter: 3.648.994,68 dengan 3.269 kuantitas dan 1.320 order. Pada screenshot Overview, tren dan KPI menampilkan cuplikan 2025 (1,84 juta / 650 order / 2 ribu kuantitas), sementara halaman 2 menampilkan total penuh 3,65 juta — dua kondisi itu memperlihatkan filter halaman bekerja mandiri."),
         ...figure(
           "08_dashboard_overview.jpeg",
           500,
           285,
-          "Gambar 4. Halaman Overview (filter 2025): KPI, tren penjualan, ranking kategori, dan ranking wilayah."
+          "Gambar 4. Halaman Overview: tile kategori (termasuk Home), dropdown wilayah, slicer tanggal, KPI, tren, dan ranking."
         ),
-        p("Jenis visual dipilih dari pertanyaan, bukan sebaliknya. Line chart untuk dimensi waktu. Bar horizontal untuk ranking (panjang batang = makna; satu warna agar bukan hiasan). Halaman 2 tidak mengulang ketiga chart itu. Sebagai gantinya: stacked 100% menunjukkan porsi kategori di tiap negara, clustered column menunjukkan nilai absolut kategori × wilayah, dan tabel memberi angka pasti yang sudah diurutkan dari penjualan terbesar (Nigeria 1.310.697,94 hingga Turkey 353.499,35). Slicer halaman 2 hanya kategori dan tahun; region tidak difilter di sini karena wilayah adalah subjek halaman."),
+        p("Jenis visual dipilih dari pertanyaan, bukan sebaliknya. Line chart untuk dimensi waktu. Bar horizontal untuk ranking. Halaman 2 tidak mengulang ketiga chart itu. Sebagai gantinya: stacked 100% menunjukkan porsi kategori di tiap negara, clustered column menunjukkan nilai absolut kategori × wilayah, dan tabel memberi angka pasti yang diurutkan dari penjualan terbesar (Nigeria 1.310.697,94 hingga Turkey 353.499,35). Slicer halaman 2 hanya tanggal dan kategori; region tidak difilter di sini karena wilayah adalah subjek halaman."),
         ...figure(
           "09_dashboard_wilayah.jpeg",
           500,
           285,
-          "Gambar 5. Halaman Breakdown Wilayah: KPI total 3,65 juta, tabel, komposisi kategori (%), dan nilai kategori per wilayah."
+          "Gambar 5. Halaman Breakdown Wilayah: KPI 3,65 juta, tabel terurut, komposisi kategori (%), dan nilai kategori per wilayah."
         ),
-        p("Insight: Electronics adalah kategori terbesar; Nigeria dan United States menyumbang penjualan tertinggi; Turkey paling kecil. Mix kategori relatif mirip antar negara (Electronics porsi terbesar), tetapi Ghana dan Turkey punya porsi Home/Groceries yang lebih terasa pada stacked 100%. Warna di halaman 2 membedakan kategori (Electronics, Fashion, Groceries, Home), bukan dekorasi."),
+        p("Insight: Electronics adalah kategori terbesar; Nigeria dan United States menyumbang penjualan tertinggi; Turkey paling kecil. Mix kategori relatif mirip antar negara (Electronics porsi terbesar), tetapi Ghana dan Turkey punya porsi Home/Groceries yang lebih terasa pada stacked 100%. Warna di halaman 2 membedakan kategori, bukan dekorasi."),
 
         h("E. Kendala & Solusi"),
         p("Aktivasi virtual environment di Windows membuka Activate.ps1 sebagai berkas teks, dan sintaks $env:DBT_PROFILES_DIR gagal di Command Prompt. Solusi: memakai .venv\\Scripts\\activate.bat serta set DBT_PROFILES_DIR=%CD% dari folder dbt_project.", {
@@ -323,7 +323,7 @@ const doc = new Document({
         p("Line chart Power BI sempat memakai sumbu Year sehingga penurunan 2026 terlihat seolah penjualan anjlok, padahal data hanya sampai 17 Februari 2026. Solusi: hierarki tanggal dengan tampilan bulan dan drill-down ke hari.", {
           numbering: { reference: "kendala", level: 0 },
         }),
-        p("Dua halaman sempat memakai bar ranking wilayah yang identik. Solusi: ranking wilayah hanya di Overview; halaman 2 diganti stacked 100% (mix) dan clustered column (nilai absolut). Slicer list masih memotong Home di kotak filter, tetapi kategori itu tetap tampil di chart dan legend.", {
+        p("Dua halaman sempat memakai bar ranking wilayah yang identik, dan slicer list memotong nilai Home. Solusi: ranking wilayah hanya di Overview; halaman 2 memakai stacked 100% (mix) dan clustered column (nilai absolut). Slicer kategori diganti tile agar keempat kategori, termasuk Home, tampil tanpa scroll; wilayah memakai dropdown; tahun diganti slicer rentang tanggal.", {
           numbering: { reference: "kendala", level: 0 },
         }),
 
